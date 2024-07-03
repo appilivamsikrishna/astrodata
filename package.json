@@ -1,0 +1,32 @@
+{
+  "name": "astrodata",
+  "version": "1.0.0",
+  "description": "astrology",
+  "main": "index.js",
+ "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appilivamsikrishna/astroreha.git"
+  },
+  "keywords": [
+    "Swiss",
+    "Ephemeris",
+    "Astrology",
+    "Jyotish",
+    "Birth Chart",
+    "Navamsa Chart"
+  ],
+  "author": "appilivamsikrishna",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/appilivamsikrishna/astroreha/issues"
+  },
+  "homepage": "https://github.com/appilivamsikrishna/astroreha#readme",
+  "dependencies": {
+    "ephemeris": "^2.0.0",
+    "jyotish-modified": "^1.1.8",
+    "swisseph": "^0.5.14"
+  }
+}
