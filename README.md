@@ -1,12 +1,12 @@
-# astrodata
+# astrodata (from Krishna)
 
 The next-generation calculation and prediction system for astrology, with a closed feedback loop implementation, crafted for accurate insights and predictive analytics.
 
 ## Overview
 
-The `astrodata` package is designed to power advanced calculations and provide reliable astrological predictions. Developed by Appili Vamsi Krishna, this package integrates a feedback-driven system to enhance prediction accuracy continually. It serves as a fundamental building block for applications such as [AstroData Cloud](https://astrodata.cloud/) and related projects.
+The `astrodata` package is designed to power advanced calculations and provide reliable astrological predictions. Developed by **Appili Vamsi Krishna**, this package integrates a feedback-driven system to enhance prediction accuracy continually. It serves as a fundamental building block for applications such as [AstroData Cloud](https://astrodata.cloud/) and related projects.
 
-As the maintainer of [`swisseph`](https://github.com/mivion/swisseph), Appili Vamsi Krishna has embedded expertise in astrological calculations, further refining this npm package for robust, real-world applications.
+As the maintainer of [`swisseph`](https://github.com/mivion/swisseph), **Appili Vamsi Krishna** has embedded expertise in astrological calculations, further refining this npm package for robust, real-world applications.
 
 ## Installation
 

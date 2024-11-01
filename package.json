@@ -1,14 +1,14 @@
 {
   "name": "astrodata",
-  "version": "1.0.0",
+  "version": "2.1.4",
   "description": "astrology",
   "main": "index.js",
- "scripts": {
+  "scripts": {
     "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appilivamsikrishna/astroreha.git"
+    "url": "git+https://github.com/appilivamsikrishna/astrodata.git"
   },
   "keywords": [
     "Swiss",
@@ -21,9 +21,9 @@
   "author": "appilivamsikrishna",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/appilivamsikrishna/astroreha/issues"
+    "url": "https://github.com/appilivamsikrishna/astrodata/issues"
   },
-  "homepage": "https://github.com/appilivamsikrishna/astroreha#readme",
+  "homepage": "https://github.com/appilivamsikrishna/astrodata#readme",
   "dependencies": {
     "ephemeris": "^2.0.0",
     "jyotish-modified": "^1.1.8",
